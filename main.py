@@ -157,3 +157,5 @@
 # qiymat = (a + b + c) // 3
 
 # print("O'rtacha qiymat:", qiymat)
+
+# asalci xudam dajonam mana 0.5 cem mana raxmati kalon 
